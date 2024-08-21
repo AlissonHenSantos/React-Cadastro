@@ -1,9 +1,6 @@
 {
-<<<<<<< HEAD
-  "name": "front",
-=======
-  "name": "frontend",
->>>>>>> 7a6100465bb285acc880a163ea4719e5749b9375
+
+ "name": "front",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
